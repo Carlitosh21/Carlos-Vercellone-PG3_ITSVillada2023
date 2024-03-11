@@ -18,3 +18,4 @@ elif opcion == 2:
         print(caracter * i)
 else:
     print("Opción no válida. Por favor ingrese 1 o 2.")
+
