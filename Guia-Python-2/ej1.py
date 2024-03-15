@@ -4,7 +4,7 @@ class Persona:
         self.nombre= name 
 
     def imprimir(self):
-        print("Nombre de la persona:",self.nombre)
+        print("Nombre de la persona: ",self.nombre)
 
 
 
