@@ -16,7 +16,7 @@
 
 En este documento, explicare la API utilizada en mi proyecto, y de que manera 
 esta fue implementada. De la misma forma, explicare las librerias utilizadas 
-las cuales fueron instaladas en un pipvenv.
+las cuales fueron instaladas en un pipenv.
 
 ## Requisitos Previos
 
